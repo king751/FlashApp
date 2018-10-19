@@ -5,7 +5,7 @@ Shows question and answer when question is clicked.
 
 ### App Walk-though 
 
-<img src="https://i.imgur.com/iHUPYD5.gif" width=200><br>
+<img src="https://i.imgur.com/UxG44Z3.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
