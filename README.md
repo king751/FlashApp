@@ -3,9 +3,7 @@
 ### App Description
 Shows question and answer when question is clicked.
 
-### App Walk-though
-
-https://imgur.com/a/fjatJC1 
+### App Walk-though 
 
 <img src="https://imgur.com/a/fjatJC1" width=200><br>
 
